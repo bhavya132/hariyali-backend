@@ -23,6 +23,6 @@ Remember the craze, when the Pokemon Go first launched for our mobiles. We spend
 - Deployment : GitHub Actions
 - APIs: Plant.id, Azure Cognitive Services
 
-#### Link to frontend Repo: [https://github.com/bhavya132/hariyaliFrontend](https://github.com/bhavya132/hariyaliFrontend)
+#### Link to frontend Repo: [https://github.com/bhavya132/hariyali-frontend](https://github.com/bhavya132/hariyali-frontend)
 
 
